@@ -12,6 +12,7 @@ If not getting boot logs, go back to step1
 # [Step3]
 
 Once ICDU is completely started, it will ask to log in minicom terminal
+
 user: `root`
 no password
 
