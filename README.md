@@ -26,7 +26,8 @@ Set temporary ip address
 cmd: `ifconfig eth0 192.168.3.x netmask 255.255.248.0`
 e.g, `ifconfig eth0 192.168.3.25 netmask 255.255.248.0`
 
-Then check, if ip is assigned to your device cmd: ifconfig
+Then check, if ip is assigned to your device
+cmd: `ifconfig`
 
 # [Step6]
 
