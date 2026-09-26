@@ -1,8 +1,7 @@
 ## [At the very beginning]
  Using USB2TTL debugger, connect from G2L board, and proceed with step1.
  
-# [Step1] cmd: 'sudo minicom'
-
+# [Step1] cmd: `sudo minicom`
 Note: If unable to enter in minicom terminal, plug-out, plug-in USB2TTL or check your connections
 
 # [Step2]
