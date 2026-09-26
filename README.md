@@ -17,7 +17,8 @@ no password
 
 # [Step4]
 
-Connect with LAN cable, and check ip address cmd: ifconfig
+Connect with LAN cable, and check ip address
+cmd: `ifconfig`
 
 # [Step5]
 
