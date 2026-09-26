@@ -80,9 +80,10 @@ cmd: `umount /dev/mmcblk0p1`
 
 # [Step9]
 
-Start your system cmd: reboot
+Start your system
+<br>cmd: `reboot`
 
-Wait for a few seconds to start ICDU and launch "Indian Railways Welcomes You" slogan on the screen.
+Wait for a few seconds to start ICDU and launch `"Indian Railways Welcomes You"` slogan on the screen.
 
 Once got, proceed with step10
 
