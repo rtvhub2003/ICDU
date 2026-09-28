@@ -51,6 +51,8 @@ Set temporary ip address
 <br>e.g, `ifconfig eth0 192.168.3.25 netmask 255.255.248.0`
 
 Transfer Kernels and DTB files to ICDU
+<br> `ls /media/`
+<br> Check output
 <br>cmd: `mount /dev/mmcblk0p1 /media/` 
 <br>cmd: `cd /media/` 
 <br>cmd: `ls`
