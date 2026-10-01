@@ -119,5 +119,15 @@ Output: A video will get played on the right of the screen along with DRM and sl
 
 Perform step10, 2-3 times, to verify that ICDU is completely programmed and working fine.
 
+## BACKGROUND IMAGE SETUP [Extra][Minicom]
+#### Copy file to /root/ if it is currently in /home/root/
+<br> `cp /home/root/ICDU_weston_background.png /root/`
+
+# Set permissions
+<br> `chmod 755 /root`
+<br> `chmod 644 /root/ICDU_weston_background.png`
+
+<br> `reboot`
+
 If feels uneasy or stuck somewhere, ask for support!
 <br>Thanks!
