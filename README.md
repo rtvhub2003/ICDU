@@ -79,7 +79,7 @@ Transfer files
 visit inside 'icduos_dtb' folder in your laptop and perform below commands
 <br>cmd: `scp -r Image-* root@192.168.3.25:/media/`
 
-Once done, execute below command in your laptop
+Once done, execute below command in minicom
 <br>cmd: `cd /media/`
 <br>cmd: `ls`
 
