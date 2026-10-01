@@ -123,7 +123,7 @@ Perform step10, 2-3 times, to verify that ICDU is completely programmed and work
 #### Copy file to /root/ if it is currently in /home/root/
 <br> `cp /home/root/ICDU_weston_background.png /root/`
 
-# Set permissions
+#### Set permissions
 <br> `chmod 755 /root`
 <br> `chmod 644 /root/ICDU_weston_background.png`
 
