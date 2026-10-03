@@ -47,13 +47,13 @@ Wait until ICDU is programmed! It'll take a few minutes [5 minutes]
 ### Notes:
 ### For fast data transfer [1000Mbps, 1Gbps]
 ### Target Machine
-<br> `ethtool -s eth0 autoneg on`
+`ethtool -s eth0 autoneg on`
 
 ### Host Machine
-<br> `sudo ethtool -s eno1 autoneg on`
+`sudo ethtool -s eno1 autoneg on`
 <br>
 ### Manual Speed Up
-<br> `sudo ethtool -s eno1 speed 1000 duplex full autoneg on`
+`sudo ethtool -s eno1 speed 1000 duplex full autoneg on`
 <br>
 
 # [Step8]
