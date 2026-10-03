@@ -52,6 +52,9 @@ Wait until ICDU is programmed! It'll take a few minutes [5 minutes]
 ### Host Machine
 <br> `sudo ethtool -s eno1 autoneg on`
 <br>
+### Manual Speed Up
+<br> `sudo ethtool -s eno1 speed 1000 duplex full autoneg on`
+<br>
 
 # [Step8]
 
